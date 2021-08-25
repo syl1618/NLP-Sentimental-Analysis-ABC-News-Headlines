@@ -1,1 +1,2 @@
-# NLP-Sentimental-Analysis-Estimate-ABC-Headlines-Sentiment-Score
+##### Estimate the sentiment score of ABC news headlines
+##### R
